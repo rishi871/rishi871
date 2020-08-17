@@ -36,16 +36,8 @@ Here are some ideas to get you started:
 ---
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on [Medium](https://medium.com/@rishijain_43309)
-
-
+I write regular blog posts, most of which you will find on [Medium](https://medium.com/@rishijain_43309) I write about things I am familiar with.
+Check out My YouTube Playlist : [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/watch?v=fqeAJWxPU20&list=PLVrieKUj5RcfnDXmJDUHUDd0g_UHPTg62)
 
 </design>
-
-<details>
-<summary>💻 <b>My Tech Stack</b> :</summary>
-
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
-
-</details>
 
