@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 </details>
 
 ---
+### My Digital Garden 🌱
 
+I write regular blog posts, most of which you will find on [Medium](https://medium.com/@rishijain_43309)
 
 </design>
 
