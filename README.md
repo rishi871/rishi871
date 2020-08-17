@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/watch?v=fqeAJWxPU20&list=PLVrieKUj5RcfnDXmJDUHUDd0g_UHPTg62)
 </p>
 
-
+</details>
 
 
 ---
@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 
   I write regular blog posts and I write about things I am familiar with. 
 
-
-</details>
 
 </design>
 
