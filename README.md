@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 ## Hi 👋 I am Rishi! 
 
+<details open>
+<summary>🤝 <b>To connect with me<b></summary>
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@rishijain_43309)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Rishi871) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rishi-jain-38946060/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rishipancholi/)
+[<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/watch?v=fqeAJWxPU20&list=PLVrieKUj5RcfnDXmJDUHUDd0g_UHPTg62)
+</p>
 
 
 
@@ -24,21 +35,8 @@ Here are some ideas to get you started:
 ---
 ### My Digital Garden 🌱
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@rishijain_43309) : I write regular blog posts,I write about things I am familiar with.
-[<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/watch?v=fqeAJWxPU20&list=PLVrieKUj5RcfnDXmJDUHUDd0g_UHPTg62) : Check out My YouTube Playlist on Next generation ETL
+  I write regular blog posts and I write about things I am familiar with. 
 
-
-<details open>
-<summary>🤝 <b>To connect with me<b></summary>
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Rishi871) 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rishi-jain-38946060/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rishipancholi/)
-[<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/watch?v=fqeAJWxPU20&list=PLVrieKUj5RcfnDXmJDUHUDd0g_UHPTg62)
-</p>
 
 </details>
 
